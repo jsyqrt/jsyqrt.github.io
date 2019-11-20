@@ -19,15 +19,18 @@ description: A test.
 
 ---
 
-Inline math \\( 1/x^{2} \\)
+Inline math \\( 1/x^{2} \\).
+
 `Inline math \\( 1/x^{2} \\)`
 
 Inline math $ 1/x^{2} $ with \$.
+
 `Inline math $ 1/x^{2} $`
 
 ---
 
-Block math
+Block math.
+
 \\[ \frac{1}{n^{2}} \\]
 
 ```text
@@ -37,7 +40,8 @@ Block math
 
 ---
 
-Block math with \$
+Block math with \$.
+
 $$
 \frac{1}{n^{2}}
 $$
