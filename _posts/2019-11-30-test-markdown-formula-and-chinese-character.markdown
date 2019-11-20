@@ -13,18 +13,45 @@ author: jsyqrt
 description: A test.
 ---
 
-add scripts \\( 1/x^{2} \\)
+---
 
-\\[ \frac{1}{n^{2}} \\]
+## Mathjax
 
 ---
 
-Sum of `a` and `b` is $ c $, $ c=a+b $, and
+Inline math \\( 1/x^{2} \\)
+`Inline math \\( 1/x^{2} \\)`
 
+Inline math $ 1/x^{2} $ with \$.
+`Inline math $ 1/x^{2} $`
+
+---
+
+Block math
+\\[ \frac{1}{n^{2}} \\]
+
+```text
+Block math
+\\[ \frac{1}{n^{2}} \\]
+```
+
+---
+
+Block math with \$
 $$
-c = a + b
+\frac{1}{n^{2}}
 $$
 
+```text
+Block math with \$
+$$
+\frac{1}{n^{2}}
+$$
+```
+
+---
+
+## Code block
 
 ---
 
