@@ -1,6 +1,6 @@
 # main text of home
-name: Jason Carter
-bio: A Man who travels the world eating noodles
+name: Jason Liu
+bio: A Blockchain Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,8 +55,8 @@ email: jsyqrt@gmail.com
 
 authors:
     jsyqrt:
-        name: Jason Carter
-        bio: A Man who travels the world eating noodles
+        name: Jason Liu
+        bio: A Blockchain Engineer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: jsyqrt
