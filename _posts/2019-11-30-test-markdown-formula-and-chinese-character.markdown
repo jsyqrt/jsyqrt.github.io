@@ -35,6 +35,7 @@ Block math.
 
 ```text
 Block math
+
 \\[ \frac{1}{n^{2}} \\]
 ```
 
@@ -48,6 +49,7 @@ $$
 
 ```text
 Block math with \$
+
 $$
 \frac{1}{n^{2}}
 $$
