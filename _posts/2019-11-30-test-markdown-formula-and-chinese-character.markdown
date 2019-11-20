@@ -13,7 +13,9 @@ author: jsyqrt
 description: A test.
 ---
 
-add scripts
+add scripts \\( 1/x^{2} \\)
+
+\\[ \frac{1}{n^{2}} \\]
 
 ---
 
