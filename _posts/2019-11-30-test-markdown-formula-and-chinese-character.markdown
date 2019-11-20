@@ -15,10 +15,6 @@ description: A test.
 
 add scripts
 
-<script type="text/javascript"
-   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 ---
 
 Sum of `a` and `b` is $c$, $c=a+b$, and
