@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+# star: true
 category: blog
 author: jsyqrt
 description: Markdown summary with different options
