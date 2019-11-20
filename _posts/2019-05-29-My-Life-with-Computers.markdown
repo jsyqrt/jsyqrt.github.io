@@ -13,6 +13,8 @@ author: jsyqrt
 description: Some Basic Introduction About My Daily Life With Computer
 ---
 
+---
+
 ## Hardwares
 
 * I love Lenovo and their *[Yogas][1]*, I use **Yoga 4 Pro** as a production environment.
