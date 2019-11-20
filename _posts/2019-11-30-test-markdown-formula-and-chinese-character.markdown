@@ -19,7 +19,7 @@ add scripts \\( 1/x^{2} \\)
 
 ---
 
-<span>Sum of `a` and `b` is $ c $, $ c=a+b $, and </span>
+Sum of `a` and `b` is $ c $, $ c=a+b $, and
 
 $$
 c = a + b
