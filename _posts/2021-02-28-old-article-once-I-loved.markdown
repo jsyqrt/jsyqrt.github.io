@@ -1,7 +1,7 @@
 ---
 title: "小时候曾喜欢的一篇古文——《送东阳马生序》"
 layout: post
-date: 2014-05-01 01:00
+date: 2014-05-01 00:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 star: true
 category: blog
 author: jsyqrt
-description: null
+description: an old article
 ---
 
 ---
@@ -25,3 +25,4 @@ description: null
 
 东阳马生君则，在太学已二年，流辈甚称其贤。余朝京师，生以乡人子谒余，撰长书以为贽，辞甚畅达；与之论辩，言和而色夷。自谓少时用心于学甚劳，是可谓善学者矣。其将归见其亲也，余故道为学之难以告之。谓余勉乡人以学者，余之志也；诋我夸际遇之盛而骄乡人者，岂知予者哉！
 
+---
