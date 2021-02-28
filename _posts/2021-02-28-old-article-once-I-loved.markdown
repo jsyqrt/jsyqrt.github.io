@@ -1,5 +1,5 @@
 ---
-title: "Ancient article once I loved"
+title: "小时候曾喜欢的一篇古文——《送东阳马生序》"
 layout: post
 date: 2014-05-01 00:00
 image: /assets/images/markdown.jpg
