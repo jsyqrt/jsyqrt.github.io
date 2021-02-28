@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - 古文
-star: true
+star: false
 category: blog
 author: jsyqrt
 description: an old article

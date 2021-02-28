@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - system and backend
-star: true
+star: false
 category: blog
 author: jsyqrt
 description: High Concurrency/Availability/Reliability System Write Up
