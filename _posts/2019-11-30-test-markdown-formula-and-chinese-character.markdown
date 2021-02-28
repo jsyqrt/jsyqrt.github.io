@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - test
 - markdown
-star: true
+star: false
 category: blog
 author: jsyqrt
 description: A test.
