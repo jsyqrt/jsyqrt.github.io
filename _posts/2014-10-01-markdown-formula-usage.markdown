@@ -1,7 +1,7 @@
 ---
 title: "Markdown 数学公式"
 layout: post
-date: 2014-09-20 00:00
+date: 2014-10-01 19:00
 tag:
 - markdown
 star: false
