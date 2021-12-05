@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - system and backend
 star: false
-category: blog
+category: hide
 author: jsyqrt
 description: High Concurrency/Availability/Reliability System Write Up
 ---

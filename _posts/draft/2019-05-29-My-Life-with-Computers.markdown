@@ -8,7 +8,7 @@ tag:
 - toolset
 - easy life
 star: false
-category: blog
+category: hide
 author: jsyqrt
 description: Some Basic Introduction About My Daily Life With Computer
 ---
