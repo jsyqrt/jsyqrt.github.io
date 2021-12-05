@@ -1,16 +1,12 @@
 ---
-title: "Markdown Common Elements"
+title: "Markdown 基本用法"
 layout: post
-date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
-headerImage: false
+date: 2014-09-24 22:44
 tag:
 - markdown
-- elements
-star: false
 category: blog
 author: jsyqrt
-description: Markdown summary with different options
+description: 
 ---
 
 ## Basic formatting
