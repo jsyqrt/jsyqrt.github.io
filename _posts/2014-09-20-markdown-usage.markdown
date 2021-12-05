@@ -1,7 +1,7 @@
 ---
 title: "Markdown 基本用法"
 layout: post
-date: 2014-09-24 22:44
+date: 2014-09-20 00:00
 tag:
 - markdown
 category: blog
