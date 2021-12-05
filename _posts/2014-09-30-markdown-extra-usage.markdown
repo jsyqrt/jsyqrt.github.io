@@ -1,17 +1,12 @@
 ---
-title: "Markdown Extra Components"
+title: "Markdown 高级用法"
 layout: post
-date: 2016-02-24 22:48
-image: /assets/images/markdown.jpg
-headerImage: false
+date: 2014-09-30 22:48
 tag:
 - markdown
-- components
-- extra
 category: blog
 author: jsyqrt
 description: Markdown summary with different options
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 ## Summary:
