@@ -1,12 +1,9 @@
 ---
-title: "小时候曾喜欢的一篇古文——《送东阳马生序》"
+title: "送东阳马生序"
 layout: post
 date: 2014-05-01 00:00
-image: /assets/images/markdown.jpg
-headerImage: false
 tag:
 - 古文
-star: false
 category: blog
 author: jsyqrt
 description: an old article

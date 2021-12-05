@@ -4,26 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Jason Carter.</p>
+<p>我是子勤</p>
 
-<p>I love easy things.</p>
+<p>我喜欢简单的东西，喜欢将复杂的东西变简单的过程。</p>
 
-<h2>Skills</h2>
+<p>目前在某厂写C++，做存储系统相关的工作。</p>
 
-<ul class="skill-list">
-	<li>C/C++</li>
-	<li>Python</li>
-	<li>Golang</li>
-	<li>MySQL</li>
-	<li>Git</li>
-	<li>Machine Learning</li>
-	<li>Block Chain</li>
-</ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/jsyqrt/hwr-address">Chinese Handwritten Character Recognition</a></li>
-	<li><a href="https://github.com/jsyqrt/nicky">Chinese Stock Markets Display and Forecast</a></li>
-	<li><a href="https://github.com/cpchain/chain">Cyber Physical Chain, An IoT Block Chain</a></li>
-</ul>
