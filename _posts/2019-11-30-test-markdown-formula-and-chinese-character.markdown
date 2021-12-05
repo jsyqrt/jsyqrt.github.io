@@ -1,16 +1,12 @@
 ---
-title: "Test Markdown Formula and Chinese Character"
+title: "Markdown 数学公式"
 layout: post
-date: 2019-11-20 01:00
-image: /assets/images/markdown.jpg
-headerImage: false
+date: 2014-09-20 00:00
 tag:
-- test
 - markdown
 star: false
 category: blog
 author: jsyqrt
-description: A test.
 ---
 
 ---
@@ -68,9 +64,5 @@ func sum(a, b int) int {
 }
 
 ```
-
----
-
-## 中文显示应该没有问题
 
 ---
