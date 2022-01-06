@@ -1,0 +1,27 @@
+---
+title: "关于信息茧房"
+layout: post
+date: 2022-01-06 02:00
+tag:
+- rss
+category: blog
+author: jsyqrt
+description: 瞎聊
+---
+
+# 关于信息茧房
+
+今天听了一个电台，叫做忽软忽硬，刘延栋，栋哥，讲信息茧房。蛮有意思的，栋哥听上去年纪蛮大了，脏话也不少，不过不少东西讲的还是挺好的。
+
+这个电台其实很早就听了，在谷歌的自己的播客App里面。科学上网了之后，现在又开始听了。
+
+具体栋哥讲了啥，我就不提了。主旨就是信息的来源，信息的存储，要能够被自己控制。最好有一个vps，部署一个服务，用来拉取rss，podcast等等。
+
+我比较简单，还是用chrome的插件来读rss的。叫做Feeder。
+
+列一下一些比较有用的chrome插件。
+* Feeder：rss订阅
+* Vimium：浏览器内的vim，用于上下翻页，跳转等
+* Dark Reader：暗色模式
+* uBlock：屏蔽广告
+* PDF Reader：阅读pdf
